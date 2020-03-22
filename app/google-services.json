@@ -1,0 +1,225 @@
+{
+  "project_info": {
+    "project_number": "488365125892",
+    "firebase_url": "https://holafirebaseesis-4ca1e.firebaseio.com",
+    "project_id": "holafirebaseesis-4ca1e",
+    "storage_bucket": "holafirebaseesis-4ca1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488365125892:android:7e95ce6290d33206b4e051",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIlRFLRD_Uu88-BpuuIm0LSdIzNoI95c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488365125892:android:aeaa960934553550b4e051",
+        "android_client_info": {
+          "package_name": "com.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488365125892-6bbshreadhop2oi7l00lck2vrp9qo5oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasecloudmessaging",
+            "certificate_hash": "00bd725dba73228aad67925c37a4bd4dcabce126"
+          }
+        },
+        {
+          "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIlRFLRD_Uu88-BpuuIm0LSdIzNoI95c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488365125892:android:8896858b0d064f2db4e051",
+        "android_client_info": {
+          "package_name": "com.rogergcc.firebasedevicetodevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488365125892-2glbjqhmf8grtr0bmbpvvsq2100hfdi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rogergcc.firebasedevicetodevice",
+            "certificate_hash": "f8f3a9546d52ddc43392cdbb5873d9cdd44b5ae0"
+          }
+        },
+        {
+          "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIlRFLRD_Uu88-BpuuIm0LSdIzNoI95c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488365125892:android:9698f0df96b1e9c2b4e051",
+        "android_client_info": {
+          "package_name": "com.rogergcc.holafirebaseesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488365125892-jhef3e9kk18r737mto0tkqpjnbprv7p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rogergcc.holafirebaseesis",
+            "certificate_hash": "f8f3a9546d52ddc43392cdbb5873d9cdd44b5ae0"
+          }
+        },
+        {
+          "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIlRFLRD_Uu88-BpuuIm0LSdIzNoI95c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488365125892:android:163b45e4be6584f9b4e051",
+        "android_client_info": {
+          "package_name": "com.rogergcc.mibdtr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488365125892-jc8v6ni96nslhn6em13kkkmctcuhlsbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rogergcc.mibdtr",
+            "certificate_hash": "f8f3a9546d52ddc43392cdbb5873d9cdd44b5ae0"
+          }
+        },
+        {
+          "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIlRFLRD_Uu88-BpuuIm0LSdIzNoI95c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488365125892:android:b5feabab3c817249b4e051",
+        "android_client_info": {
+          "package_name": "com.rogergcc.mifcmesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488365125892-7mrs2tl06tvebunkog5nktd6culleboo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rogergcc.mifcmesis",
+            "certificate_hash": "f8f3a9546d52ddc43392cdbb5873d9cdd44b5ae0"
+          }
+        },
+        {
+          "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIlRFLRD_Uu88-BpuuIm0LSdIzNoI95c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488365125892-fsr5t4c2ccao6oeh1luvndggnk1hct5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
